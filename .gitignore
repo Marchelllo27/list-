@@ -1,0 +1,14 @@
+sass-cache
+style.scss
+style.css.map
+
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
